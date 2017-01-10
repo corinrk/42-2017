@@ -1,0 +1,50 @@
+ 
+   .main{
+    color: black;
+    min-height: 70px;
+    min-width: 70px;
+    height: 100%;
+    width: 99%;
+    }
+    .element {
+      height: 60px;
+      width: 50px;
+      border: 1px solid black;
+    }
+    .hidden {
+      position: absolute;
+      height: 60px;
+      width: 50px;
+    }
+    .elem_weight {
+      margin: 4%;
+      text-align: right;
+      font-size: 1vw;
+      margin-right: 5%;
+    }
+    .elem_symbol {
+      position: inherit;
+      text-align: center;
+      font-size: 3vw;
+    }
+    .elem_number {
+      position: inherit;
+      margin-left: 5%;
+      text-align: left;
+      font-size: 1vw;
+      bottom: 10%;
+    }
+ 
+  .main{
+    color: black;
+    min-height: 70px;
+    min-width: 70px;
+    height: 100%;
+    width: 99%;
+  }
+  td {
+    text-align: center;
+  }
+  p {
+    margin: 0;
+  }
